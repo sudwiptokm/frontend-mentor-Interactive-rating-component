@@ -11,7 +11,7 @@ export default function RatingComponent({ selected, changeSelect }: any) {
             key={idx}
             className={`${
               selected === idx + 1 ? "bg-gray-400" : "bg-gray-700"
-            } w-20 h-20 flex justify-center items-center rounded-full hover:bg-orange-500 cursor-pointer`}
+            } md:w-20 md:h-20 w-12 h-12 flex justify-center items-center rounded-full hover:bg-orange-500 cursor-pointer`}
             onClick={() => changeSelect(idx + 1)}
           >
             {idx + 1}

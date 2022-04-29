@@ -21,7 +21,7 @@ const Home: NextPage = () => {
               setSelected={setSelected}
             />
           ) : (
-            <Confirmation rating={selected}/>
+            <Confirmation rating={selected} />
           )}
         </div>
       </div>
