@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sudwiptokm/frontend-mentor-Interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://interactive-rating-componetn-fem.netlify.app/)
+- Solution URL: [Solution Github Repo (this)](https://github.com/sudwiptokm/frontend-mentor-Interactive-rating-component)
+- Live Site URL: [Live Site/Demo](https://interactive-rating-componetn-fem.netlify.app/)
 
 ## My process
 
